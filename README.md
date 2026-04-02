@@ -2,8 +2,8 @@
 
 A high-performance, frontend-only developer tool for parsing, validating, and analyzing complex JSON structures directly in the browser.
 
-🔗 Live Demo: https://your-vercel-link.vercel.app
-
+🔗 Live Demo: [https://your-vercel-link.vercel.app
+](https://beautify-neon.vercel.app/)
 ---
 
 ## 🚀 Overview
