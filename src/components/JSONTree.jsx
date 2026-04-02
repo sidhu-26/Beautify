@@ -1,4 +1,4 @@
-import ReactJson from 'react-json-view';
+import ReactJson from '@microlink/react-json-view';
 
 export default function JSONTree({ jsonObject }) {
   if (!jsonObject) {
